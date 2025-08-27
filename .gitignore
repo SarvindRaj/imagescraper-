@@ -1,0 +1,7 @@
+scrapes/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+__pycache__/
